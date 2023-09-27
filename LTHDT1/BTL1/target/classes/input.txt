@@ -1,0 +1,24 @@
+Hoa Huong Duong
+1a
+100
+1200000
+Hoa Cam Tu
+1b
+120
+1300000
+Hoa Mai
+1x
+140
+3000000
+Hoa Anh Dao
+2d
+150
+5000000
+Oai Huong
+2n
+180
+7000000
+Ban Mai
+3a
+180
+8000000
